@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="note_style_array">
+        <item> Linear </item>
+        <item> Grid </item>
+    </string-array>
+    <string-array name="note_style_values">
+        <item> Linear </item>
+        <item> Grid </item>
+    </string-array>
+
+
+    <string-array name="time_format_array">
+        <item> day/month/year </item>
+        <item> month/day/year </item>
+    </string-array>
+    <string-array name="time_format_values">
+        <item> kk:mm:ss - dd/MM/yyyy </item>
+        <item> kk:mm:ss - MM/dd/yyyy </item>
+    </string-array>
+
+
+    <string-array name="theme_array">
+        <item> Light Theme </item>
+        <item> Dark Theme </item>
+    </string-array>
+    <string-array name="theme_values">
+        <item> Light </item>
+        <item> Dark </item>
+    </string-array>
+
+
+    <string-array name="text_size_array">
+        <item> 14 </item>
+        <item> 16 </item>
+        <item> 18 </item>
+        <item> 20 </item>
+    </string-array>
+    <string-array name="text_size_values">
+        <item> 14 </item>
+        <item> 16 </item>
+        <item> 18 </item>
+        <item> 20 </item>
+    </string-array>
+
+
+
+
+
+
+</resources>
